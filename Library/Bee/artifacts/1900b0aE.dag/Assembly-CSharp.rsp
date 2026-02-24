@@ -355,6 +355,12 @@
 -analyzer:"E:/unityHub/editor/2022.3.57f1c2/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"E:/unityHub/editor/2022.3.57f1c2/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Scripts/debugScripts.cs"
+"Assets/Scripts/lesson01_getcomponent.cs"
+"Assets/Scripts/Lesson01_Reference.cs"
+"Assets/Scripts/Lesson01_Spawn.cs"
+"Assets/Scripts/Lesson01_Trigger.cs"
+"Assets/Scripts/playerMove.cs"
+"Assets/Scripts/updateTest.cs"
 -langversion:9.0
 /deterministic
 /optimize+
